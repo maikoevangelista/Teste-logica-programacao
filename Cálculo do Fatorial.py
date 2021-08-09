@@ -1,3 +1,7 @@
+#O fatorial de um número n é representado por n!
+# que é obtido a partir da multiplicação de todos os seus antecessores até o número um.
+#n! = nx(n - 1)x(n -2)x...x1
+
 print('-'*30)
 print('Cálculo do Fatorial')
 print('-'*30)
